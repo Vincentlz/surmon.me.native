@@ -13,9 +13,7 @@
 
 **[Surmon.me](https://surmon.me) blog app, powered by [react-native](https://github.com/facebook/react-native).**
 
-**[download Android apk 📲](https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/dist/android/surmon.me.apk)**
-
----
+**[download Android apk](https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/dist/android/surmon.me.apk)** 📲 
 
 **🔥 其他相关项目：**
 - **RESTful API service:** [`nodepress`](https://github.com/surmon-china/nodepress) powered by [`nestjs`](https://github.com/nestjs/nest)
