@@ -13,8 +13,8 @@
 
 [**Download Android apk**](https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/dist/android/surmon.me.apk) 📲
 
-- [Changelog](https://github.com/surmon-china/surmon.me.native/blob/master/CHANGE_LOG.md)
-- [Documentation](https://github.com/surmon-china/surmon.me.native/blob/master/DOCUMENT.md)
+- [Changelog](./CHANGE_LOG.md)
+- [Documentation](./DOCUMENT.md)
 
 **Related projects:**
 - RESTful API service: [`NodePress`](https://github.com/surmon-china/nodepress) built with NestJS.
