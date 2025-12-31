@@ -9,14 +9,14 @@
 &nbsp;
 [![GitHub license](https://img.shields.io/github/license/surmon-china/surmon.me.native.svg?style=for-the-badge)](https://github.com/surmon-china/surmon.me.native/blob/master/LICENSE)
 
-**[Surmon.me](https://surmon.me) blog app, powered by [react-native](https://github.com/facebook/react-native).**
+**[Surmon.me](https://surmon.me) blog app, built with [React Native](https://github.com/facebook/react-native).**
 
 **[download Android apk](https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/dist/android/surmon.me.apk)** 📲 
 
 **🔥 其他相关项目：**
-- **RESTful API service:** [`nodepress`](https://github.com/surmon-china/nodepress) powered by [`nestjs`](https://github.com/nestjs/nest)
-- **SSR blog website:** [`surmon.me`](https://github.com/surmon-china/surmon.me) powered by Vue (3)
-- **Blog admin website:** [`surmon.me.admin`](https://github.com/surmon-china/surmon.me.admin) powered by React & [`Veact`](https://github.com/veactjs/veact)
+- **RESTful API service:** [`nodepress`](https://github.com/surmon-china/nodepress) built with [`nestjs`](https://github.com/nestjs/nest)
+- **SSR blog website:** [`surmon.me`](https://github.com/surmon-china/surmon.me) built with Vue(3)
+- **Blog admin website:** [`surmon.me.admin`](https://github.com/surmon-china/surmon.me.admin) built with React & [`Veact`](https://github.com/veactjs/veact)
 
 **相关文档：**
 - **[CHANGELOG](https://github.com/surmon-china/surmon.me.native/blob/master/CHANGE_LOG.md)**
