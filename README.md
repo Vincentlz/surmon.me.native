@@ -11,20 +11,17 @@
 
 **[Surmon.me](https://surmon.me) blog app, built with [React Native](https://github.com/facebook/react-native).**
 
-**[download Android apk](https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/dist/android/surmon.me.apk)** 📲 
+**[Download Android apk](https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/dist/android/surmon.me.apk)** 📲 
 
-**🔥 其他相关项目：**
-- **RESTful API service:** [`nodepress`](https://github.com/surmon-china/nodepress) built with [`nestjs`](https://github.com/nestjs/nest)
-- **SSR blog website:** [`surmon.me`](https://github.com/surmon-china/surmon.me) built with Vue(3)
-- **Blog admin website:** [`surmon.me.admin`](https://github.com/surmon-china/surmon.me.admin) built with React & [`Veact`](https://github.com/veactjs/veact)
-
-**相关文档：**
 - **[CHANGELOG](https://github.com/surmon-china/surmon.me.native/blob/master/CHANGE_LOG.md)**
 - **[DOCUMENTATION](https://github.com/surmon-china/surmon.me.native/blob/master/DOCUMENT.md)**
 
----
+**Related projects:**
+- RESTful API service: [`NodePress`](https://github.com/surmon-china/nodepress) built with NestJS.
+- SSR blog: [`surmon.me`](https://github.com/surmon-china/surmon.me) built with Vue.
+- Blog admin site: [`surmon.me.admin`](https://github.com/surmon-china/surmon.me.admin) built with React and [`Veact`](https://github.com/veactjs/veact).
 
-**IOS Runtime**
+## IOS Runtime
 
 <a href="https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/screenshots/g-1.gif" target="_blank">
   <img src="https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/screenshots/g-1.gif" width="31%" />
