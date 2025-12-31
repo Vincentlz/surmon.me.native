@@ -19,8 +19,8 @@
 
 **🔥 其他相关项目：**
 - **RESTful API service:** [`nodepress`](https://github.com/surmon-china/nodepress) powered by [`nestjs`](https://github.com/nestjs/nest)
-- **SSR Blog:** [`surmon.me`](https://github.com/surmon-china/surmon.me) powered by Vue (3)
-- **Blog admin site:** [`veact-admin`](https://github.com/surmon-china/veact-admin) powered by React & [`Veact`](https://github.com/veactjs/veact)
+- **SSR blog website:** [`surmon.me`](https://github.com/surmon-china/surmon.me) powered by Vue (3)
+- **Blog admin website:** [`surmon.me.admin`](https://github.com/surmon-china/surmon.me.admin) powered by React & [`Veact`](https://github.com/veactjs/veact)
 
 **相关文档：**
 - **[CHANGELOG](https://github.com/surmon-china/surmon.me.native/blob/master/CHANGE_LOG.md)**
